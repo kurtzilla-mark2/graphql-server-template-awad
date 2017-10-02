@@ -1,0 +1,5 @@
+{
+  "presets": ["latest", "stage-3"],
+  "sourceMaps": true,
+  "retainLines": true
+}
